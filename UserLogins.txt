@@ -1,0 +1,5 @@
+There are three logins pre-programmed into the database as there is no GUI functionality to create new users or account info. 
+The three users are as Follows:
+Username: Brandon	Password: AdminPassword		Permission Level: admin
+Username: Ernesto	Password: UserPassword1 	Permission Level: user
+Username: User		Password: UserPassword2 	Permission Level: user
